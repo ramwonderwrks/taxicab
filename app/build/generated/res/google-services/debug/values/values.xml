@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">818190825164-io3qlmilsfs0p41mbm8nv9hv9qbd2mui.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://agile-alignment-659.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">818190825164</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9h9A31uDG6sj5OLRsebdFO3asZB4VT-A</string>
+    <string name="google_app_id" translatable="false">1:818190825164:android:aa913ac8d1759f49</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9h9A31uDG6sj5OLRsebdFO3asZB4VT-A</string>
+    <string name="google_storage_bucket" translatable="false">agile-alignment-659.appspot.com</string>
+</resources>
